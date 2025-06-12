@@ -8,7 +8,7 @@ public class AddServiceTest {
     @Test
     public void addIntegers(){
         JenkenServer server = new JenkenServer();
-        Result result = server.add(2,3);
-        assertEquals(result.getResult(),5);
+        Result result = server.add(4,3);
+        assertEquals(result.getResult(),7);
     }
 }
