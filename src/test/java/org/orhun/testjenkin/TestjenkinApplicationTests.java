@@ -13,4 +13,9 @@ class TestjenkinApplicationTests {
         assertTrue(true);
     }
 
+    @Test
+    void contextLoads2() {
+        assertTrue(true);
+    }
+
 }
