@@ -6,7 +6,6 @@ pipeline {
             steps {
                git branch: 'main',
                url: 'https://github.com/okuorhun/mycalculator.git'
-               //git 'https://github.com/coralogix-resources/java-rest-api-calculator.git'
                // echo 'Hello World'
                sh './mvnw clean compile'
             }
