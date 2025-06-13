@@ -11,7 +11,7 @@
     <groupId>org.orhun</groupId>
     <artifactId>testjenkin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>testjenkin</name>
     <description>testjenkin</description>
     <url/>
