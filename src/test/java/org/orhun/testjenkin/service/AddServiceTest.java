@@ -9,6 +9,6 @@ public class AddServiceTest {
     public void addIntegers(){
         JenkenServer server = new JenkenServer();
         Result result = server.add(4,3);
-        assertEquals(result.getResult(),6);
+        assertEquals(result.getResult(),16);
     }
 }
