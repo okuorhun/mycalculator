@@ -10,7 +10,7 @@ class TestjenkinApplicationTests {
 
     @Test
     void contextLoads() {
-        //assertTrue(true);
+        assertTrue(false);
     }
 
 
